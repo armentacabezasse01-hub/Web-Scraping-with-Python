@@ -1,0 +1,1 @@
+In this Python code, you will see how I connected to the website https://api.football-data.org/ and retrieved data using my personal API token. I stored the data in a list, which I later used to pull all teams whose names end with ‘CF’ using regex.
